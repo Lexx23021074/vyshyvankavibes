@@ -9,3 +9,4 @@ https://squoosh.app/
 https://tinypng.com/
 
 xnView 
+ в репозиторії: public, no templates, add readme, додаємо git ignore від node
